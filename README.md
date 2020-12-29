@@ -3,7 +3,7 @@
 
 10m terrain RGB raster tilesets (webp version) in Rwanda
 
-This is to provide terrain RGB raster tilesets - webp version which was generated from 10m DEM owned by [Water and Sanitation Corporation (WASAC)(https://www.wasac.rw) in Rwanda.
+This is to provide terrain RGB raster tilesets - webp version which was generated from 10m DEM owned by [Water and Sanitation Corporation (WASAC)](https://www.wasac.rw) in Rwanda.
 
 ## Usage
 
